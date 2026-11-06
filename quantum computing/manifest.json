@@ -1,0 +1,44 @@
+[
+  {
+    "original": "Qc-lab2.ipynb",
+    "updated": "quantum_entanglement_and_gates.ipynb",
+    "creation_date": "2026-09-11T12:01:09.196924+05:30",
+    "original_sha256": "f674d56cc82f2d8394931910e89f44ac5dac5e0c2e49e57148083fa678eb7a2e"
+  },
+  {
+    "original": "Qc-lab3.ipynb",
+    "updated": "quantum_state_visualization.ipynb",
+    "creation_date": "2026-09-18T09:09:41.919749+05:30",
+    "original_sha256": "c8bf37aaa2d21e9588eb9be15f4505fdddf183b606bcaf391b1b0df9263dfb11"
+  },
+  {
+    "original": "Untitled.ipynb",
+    "updated": "entanglement_experiments_draft.ipynb",
+    "creation_date": "2026-09-11T09:42:36.029654+05:30",
+    "original_sha256": "f674d56cc82f2d8394931910e89f44ac5dac5e0c2e49e57148083fa678eb7a2e"
+  },
+  {
+    "original": "qc-lab4.ipynb",
+    "updated": "quantum_teleportation.ipynb",
+    "creation_date": "2026-10-03T09:25:11.270205+05:30",
+    "original_sha256": "95749732b51275872c5d2a79c282bca0baa99471fbc10ab00ccc88e6c68463c4"
+  },
+  {
+    "original": "qc-lab5.ipynb",
+    "updated": "bit_flip_and_phase_flip_error_correction.ipynb",
+    "creation_date": "2026-10-16T09:15:27.682369+05:30",
+    "original_sha256": "1155c44278afedb7e9a695177db4414aba7a709f1989de7eb48dec04c94fb113"
+  },
+  {
+    "original": "qc-lab6.ipynb",
+    "updated": "shor_bit_and_phase_error_correction.ipynb",
+    "creation_date": "2026-10-23T10:37:23.938753+05:30",
+    "original_sha256": "6252f05b8655cc80aa6d62de68497e2b0e222796950726c95d84bc2b03dea0e6"
+  },
+  {
+    "original": "qc-lab7.ipynb",
+    "updated": "lab7_empty_template.ipynb",
+    "creation_date": "2026-10-26T09:48:06.974013+05:30",
+    "original_sha256": "6e949b0d290b04063acb0093d1aa4485efc17316b83d03d7894474131f0bec69"
+  }
+]
